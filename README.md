@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghvendra Tiwari</h1>
+<img src="https://github.com/raghav1482/raghav1482/blob/97d842b90d08ce66fb39a4c01079e720d820b684/Hi%20%F0%9F%91%8B%2C%20Myself%20Raghvendra%20Tiwari%20(1).gif" align="center"/>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav1482&label=Profile%20views&color=0e75b6&style=flat" alt="raghav1482" /> </p>
