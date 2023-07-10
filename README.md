@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav1482" alt="raghav1482" /></a> </p>
 
-- 🔭 I’m currently working on [Bookmymovie](https://github.com/raghav1482/bmMovie)
+- 🔭 I’m currently working on [MovieADDA](https://github.com/raghav1482/MovieAdda)
 
 - 🌱 I’m currently learning **C++ & DSA**
 
