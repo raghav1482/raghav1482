@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MovieADDA](https://github.com/raghav1482/MovieAdda)
 
-- 🌱 I’m currently learning **C++ & DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **some OpenSource projects**
 
